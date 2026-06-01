@@ -20,22 +20,25 @@ O foco deste projeto é estritamente **educacional**. Ele serve tanto como um po
 
 Durante a jornada acadêmica, os códigos aqui presentes foram estruturados para exercitar os **4 Pilares Fundamentais da POO**:
 
-### 1. 📦 Abstração e Encapsulamento
+#### 1. 📦 Abstração e Encapsulamento
 * **Abstração:** Modelagem de entidades do mundo real em classes Java, extraindo apenas os atributos e métodos essenciais para o domínio do problema.
 * **Encapsulamento:** Proteção e controle de acesso aos dados de um objeto usando modificadores de acesso (`private`, `protected`, `public`) e métodos acessores (`getters` e `setters`).
 
-### 🧬 2. Herança
+#### 🧬 2. Herança
 * Reutilização de código e criação de hierarquias entre classes utilizando a palavra-chave `extends`. Classes filhas herdando comportamentos e características das classes mães, otimizando a arquitetura do software.
 
-### 🎭 3. Polimorfismo
+#### 🎭 3. Polimorfismo
 * Capacidade de um objeto ser referenciado de várias formas. Praticado de duas maneiras principais:
     * **Sobrecarga (Overload):** Métodos com o mesmo nome, mas assinaturas (parâmetros) diferentes na mesma classe.
     * **Sobrescrita (Override):** Redefinição de métodos herdados da superclasse utilizando a anotação `@Override`.
 
-### 🛡️ 4. Interfaces e Classes Abstratas
+#### 🛡️ 4. Interfaces e Classes Abstratas
 * Criação de contratos de comportamento através de `interfaces` (com a palavra-chave `implements`) e definição de moldes estruturais parciais através de classes `abstract`, garantindo baixo acoplamento.
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 * Linguagem Principal: Java (JDK 17 ou superior)
 * Paradigma: Orientação a Objetos (Strongly Typed)
 * Ambientes de Desenvolvimento (IDEs): VS Code / Eclipse (utilizados em laboratório)
+
+## ✒️ Considerações Acadêmicas
+Este repositório reflete a evolução lógica de um estudante de tecnologia: desde o entendimento de variáveis de referência e gerenciamento de memória (Stack vs. Heap) até a implementação de coleções robustas (List, Map, Set) e tratamento de exceções customizadas (try-catch-finally).
