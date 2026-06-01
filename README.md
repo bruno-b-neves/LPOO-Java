@@ -35,18 +35,6 @@ Durante a jornada acadêmica, os códigos aqui presentes foram estruturados para
 
 ---
 
-## 📂 Estrutura de Aprendizado e Pastas
-
-Cada diretório deste repositório foi planejado para isolar e exercitar tópicos específicos da ementa universitária:
-
-```text
-📂 Java_POO/
-├── 📁 Exercicios/          # Desafios de lógica e fixação dos pilares de POO
-├── 📁 Projetos/            # Mini-sistemas construídos para avaliação (regras de negócio)
-└── 📁 Desafios_DML/        # Integração e manipulação lógica de dados (onde aplicável)
-```
-💡 Sinta-se à vontade para navegar pelas pastas acima e visualizar os arquivos de código-fonte (.java). Eles contêm comentários explicando as decisões de implementação.
-
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 * Linguagem Principal: Java (JDK 17 ou superior)
 * Paradigma: Orientação a Objetos (Strongly Typed)
