@@ -20,7 +20,7 @@ O foco deste projeto é estritamente **educacional**. Ele serve tanto como um po
 
 Durante a jornada acadêmica, os códigos aqui presentes foram estruturados para exercitar os **4 Pilares Fundamentais da POO**:
 
-#### 1. 📦 Abstração e Encapsulamento
+#### 📦 1. Abstração e Encapsulamento
 * **Abstração:** Modelagem de entidades do mundo real em classes Java, extraindo apenas os atributos e métodos essenciais para o domínio do problema.
 * **Encapsulamento:** Proteção e controle de acesso aos dados de um objeto usando modificadores de acesso (`private`, `protected`, `public`) e métodos acessores (`getters` e `setters`).
 
