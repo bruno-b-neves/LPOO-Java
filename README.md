@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/Paradigma-POO-red?style=for-the-badge" alt="Paradigma POO">
 </p>
 
+---
+
 ## 📌 Sobre o Repositório
 
 Este repositório foi criado com o objetivo de centralizar, organizar e documentar os códigos e conceitos práticos desenvolvidos durante a cadeira de **Programação Orientada a Objetos (POO)** na faculdade. 
@@ -32,8 +34,6 @@ Durante a jornada acadêmica, os códigos aqui presentes foram estruturados para
 
 ### 🛡️ 4. Interfaces e Classes Abstratas
 * Criação de contratos de comportamento através de `interfaces` (com a palavra-chave `implements`) e definição de moldes estruturais parciais através de classes `abstract`, garantindo baixo acoplamento.
-
----
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 * Linguagem Principal: Java (JDK 17 ou superior)
